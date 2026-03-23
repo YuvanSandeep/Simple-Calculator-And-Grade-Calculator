@@ -1,1 +1,1 @@
-msgbox "Are you just going to keep pressing this button out of boredom?", vbquestion + vbyesno, "Question" 
+msgbox "Are you a kid?", vbquestion + vbyesno, "Question" 
